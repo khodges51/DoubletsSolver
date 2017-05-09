@@ -1,5 +1,4 @@
 # DoubletsSolver
-This program finds solutions for the doublets game by Lewis Carroll
 Visual basic implimentation of a doulbets solver. Doublets are word puzzles in which you must trasform the start word to the end word by changing one letter at a time, only ever using real words. 
 
 For example: TALE to COOL would  have a solution [TALE, TALL, TOOL, COOL]
