@@ -1,0 +1,13 @@
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\bin\Release\DoubletsSolver.exe.config
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\bin\Release\DoubletsSolver.exe.manifest
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\bin\Release\DoubletsSolver.application
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\bin\Release\DoubletsSolver.exe
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\bin\Release\DoubletsSolver.pdb
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\bin\Release\DoubletsSolver.xml
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Release\DoubletsSolver.Resources.resources
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Release\DoubletsSolver.vbproj.GenerateResource.Cache
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Release\DoubletsSolver.exe.manifest
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Release\DoubletsSolver.application
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Release\DoubletsSolver.exe
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Release\DoubletsSolver.xml
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Release\DoubletsSolver.pdb

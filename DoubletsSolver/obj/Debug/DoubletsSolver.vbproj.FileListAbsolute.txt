@@ -1,0 +1,9 @@
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\bin\Debug\DoubletsSolver.exe.config
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Debug\DoubletsSolver.Resources.resources
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Debug\DoubletsSolver.vbproj.GenerateResource.Cache
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\bin\Debug\DoubletsSolver.exe
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\bin\Debug\DoubletsSolver.pdb
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\bin\Debug\DoubletsSolver.xml
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Debug\DoubletsSolver.exe
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Debug\DoubletsSolver.xml
+C:\Users\Kurt\Dropbox\Jobs\Technical_Assessments\Fake_Prism\DoubletsSolver\DoubletsSolver\obj\Debug\DoubletsSolver.pdb
